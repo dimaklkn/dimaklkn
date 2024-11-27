@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @dimaklkn
-- 👀 I’m interested in javasctipt
-- 🌱 I’m currently learning javasctipt
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me: 
+- 👀 Looking for job (React, js, html, css etc.)
+- 📫 How to reach me: dmtrklkn@gmail.com
 
 <!---
 dimaklkn/dimaklkn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
