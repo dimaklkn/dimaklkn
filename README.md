@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @dimaklkn
-- 👀 Looking for job (React, js, html, css etc.)
+-  (React, js, html, css etc.)
 - 📫 How to reach me: dmtrklkn@gmail.com
 
 <!---
